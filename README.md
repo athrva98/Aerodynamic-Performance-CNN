@@ -10,11 +10,11 @@ The model was trained for 35 epochs and the Validation loss fell to 0.0037.
 
 # Plots and Figures
 1. Absolute normalized Loss of 50 samples from the training dataset. \
-![alt text](https://github.com/NonStopEagle137/Aerodynamic-Performance-CNN/blob/Images/Loss50.png?raw=true) \
+![alt text](https://github.com/NonStopEagle137/Aerodynamic-Performance-CNN/blob/main/Images/Loss50.png?raw=true) \
 2. Training and Validation Loss \
-![alt text](https://github.com/NonStopEagle137/Aerodynamic-Performance-CNN/blob/Images/Training.png?raw=true) \
+![alt text](https://github.com/NonStopEagle137/Aerodynamic-Performance-CNN/blob/main/Images/Training.png?raw=true) \
 3. cl/cd comparison of predicted values and real values from the train dataset. \
-![alt text](https://github.com/NonStopEagle137/Aerodynamic-Performance-CNN/blob/Images/clcd.png?raw=true) \
+![alt text](https://github.com/NonStopEagle137/Aerodynamic-Performance-CNN/blob/main/Images/clcd.png?raw=true) \
 
 
 
